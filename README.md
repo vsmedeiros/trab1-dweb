@@ -1,4 +1,4 @@
-# 📄 Currículo Online - Mateus Fernando Silva
+# 📄 Trabalho 1 - Desenvolvimento Web
 
 Este projeto consiste em um currículo online desenvolvido em HTML puro como parte do **Trabalho 1** da disciplina de **Desenvolvimento Web** da **Universidade Federal de Uberlândia (UFU)**.
 
